@@ -1,0 +1,1893 @@
+[   0.181][v][cplayer] mpv 0.31.0-87-gae0520cafc Copyright 漏 2000-2020 mpv/MPlayer/mplayer2 projects
+[   0.181][v][cplayer]  built on Sun Jan 26 08:40:52 +08 2020
+[   0.181][v][cplayer] ffmpeg library versions:
+[   0.181][v][cplayer]    libavutil       56.38.100
+[   0.181][v][cplayer]    libavcodec      58.66.101
+[   0.181][v][cplayer]    libavformat     58.35.104
+[   0.181][v][cplayer]    libswscale      5.6.100
+[   0.181][v][cplayer]    libavfilter     7.71.100
+[   0.181][v][cplayer]    libswresample   3.6.100
+[   0.181][v][cplayer] ffmpeg version: git-2020-01-25-15d160cc0
+[   0.181][v][cplayer] 
+[   0.181][v][cplayer] Configuration: /home/shinchiro/build/build32/packages/mpv-prefix/src/mpv/waf configure --enable-static-build --enable-pdf-build --disable-manpage-build --enable-libmpv-shared --enable-lua --enable-javascript --enable-sdl2 --enable-libarchive --enable-libass --enable-libbluray --enable-dvdnav --enable-uchardet --enable-rubberband --enable-lcms2 --enable-openal --enable-spirv-cross --enable-vulkan --enable-vapoursynth --prefix=/home/shinchiro/build/build32/install/mingw
+[   0.181][v][cplayer] List of enabled features: asm atomics build-date cplayer cuda-hwaccel cuda-interop d3d-hwaccel d3d11 d3d9-hwaccel debug-build direct3d dos-paths drmprime dvdnav egl-angle egl-angle-win32 egl-helpers ffmpeg ffnvcodec gl gl-dxinterop gl-dxinterop-d3d9 gl-win32 glob glob-win32 gnuc gpl iconv javascript jpeg lcms2 libarchive libass libass-osd libav-any libavcodec libavdevice libavutil libbluray libm libmpv-shared libplacebo lua luajit mingw noexecstack openal optimize plain-gl posix-or-mingw rubberband sdl2 sdl2-audio sdl2-gamepad sdl2-video shaderc shaderc-static spirv-cross spirv-cross-static static-build stdatomic uchardet vapoursynth vulkan wasapi win32-desktop win32-internal-pthreads win32-pipes zlib
+[   0.181][v][cplayer] Set property: log-file="mpv.log" -> 1
+[   0.181][d][ytdl_hook] loading @ytdl_hook.lua
+[   0.181][d][stats] reading options for stats 
+[   0.181][d][console] reading options for console 
+[   0.181][d][stats] script-opts/stats.conf [   2.062][v][cplayer] Set property: speed="1" -> 1
+[  12.931][v][cplayer] Set property: speed="1" -> 1
+[  13.343][v][cplayer] Set property: video-aspect="1" -> 1
+[  13.343][v][cplayer] Set property: speed="1" -> 1
+[  13.792][v][cplayer] Set property: speed="1" -> 1
+[  14.246][v][cplayer] Set property: video-aspect="1" -> 1
+[  14.246][v][cplayer] Set property: speed="1" -> 1
+[  15.907][v][cplayer] Set property: speed="1" -> 1
+[  15.907][v][cplayer] Set property: video-aspect="1" -> 1
+[  16.076][v][cplayer] Set property: speed="1" -> 1
+[  16.880][v][cplayer] Set property: speed="1" -> 1
+[  17.474][v][cplayer] Set property: speed="1" -> 1
+[  17.846][v][cplayer] Set property: video-aspect="1" -> 1
+[  17.847][v][cplayer] Set property: speed="1" -> 1
+[  18.849][v][cplayer] Set property: speed="1" -> 1
+[  18.849][v][cplayer] Set property: video-aspect="1" -> 1
+[  25.855][v][cplayer] Set property: speed="1" -> 1
+[  27.505][v][cplayer] Set property: speed="1" -> 1
+[  27.926][v][cplayer] Set property: video-aspect="1" -> 1
+[  27.927][v][cplayer] Set property: speed="1" -> 1
+[  28.521][v][cplayer] Set property: speed="1" -> 1
+[  28.710][v][cplayer] Set property: video-aspect="1" -> 1
+[  28.710][v][cplayer] Set property: speed="1" -> 1
+[  29.277][v][cplayer] Set property: speed="1" -> 1
+[  29.277][v][cplayer] Set property: video-aspect="1" -> 1
+[  29.438][v][cplayer] Set property: speed="1" -> 1
+[  29.713][v][cplayer] Set property: speed="1" -> 1
+[  29.713][v][cplayer] Set property: video-aspect="1" -> 1
+[  29.800][v][cplayer] Set property: video-aspect="1" -> 1
+[  29.800][v][cplayer] Set property: speed="1" -> 1
+[  30.801][v][cplayer] Set property: speed="1" -> 1
+[  30.801][v][cplayer] Set property: video-aspect="1" -> 1
+ection, flags=64, args=["input_forced_c[   2.062][v][cplayer] Set property: speed="1" -[   [  12.931][v][cplayer] Set property: speed="1" -[  1[  13.343][v][cplayer] Set property: video-aspec[  13.343][[  13.343][v][cplayer] Set property: speed="1" -[  1[  13.792][v][cplayer] Set property: speed="1" -[  1[  14.246][v][cplayer] Set property: video-aspec[  14.246][[  14.246][v][cplayer] Set property: speed="1" -[  1[  15.907][v][cplayer] Set property: speed="1" -[  15.907][v][cplayer] Set property: speed="1" -> 1
+[  15.907][[  16.077][v][cplayer] Set property: speed="1" -[  1[  16.880][v][cplayer] Set property: speed="1" -[  1[  17.474][v][cplayer] Set property: speed="1" -[  1[  17.846][v][cplayer] Set property: video-aspec[  17.847][[  17.847][v][cplayer] Set property: speed="1" -[  1[  18.850][v][cplayer] Set property: speed="1" -[  18.850][v][cplayer] Set property: speed="1" -> 1
+[  18.850][[  25.855][v][cplayer] Set property: speed="1" -[  2[  27.505][v][cplayer] Set property: speed="1" -[  2[  27.926][v][cplayer] Set property: video-aspec[  27.927][[  27.927][v][cplayer] Set property: speed="1" -[  2[  28.522][v][cplayer] Set property: speed="1" -[  2[  28.710][v][cplayer] Set property: video-aspec[  28.710][[  28.710][v][cplayer] Set property: speed="1" -[  2[  29.277][v][cplayer] Set property: speed="1" -[  29.277][v][cplayer] Set property: speed="1" -> 1
+[  29.277][[  29.438][v][cplayer] Set property: speed="1" -[  2[  29.713][v][cplayer] Set property: speed="1" -[  29.713][v][cplayer] Set property: speed="1" -> 1
+[  29.713][[  29.800][v][cplayer] Set property: video-aspec[  29.800][[  29.800][v][cplayer] Set property: speed="1" -[  2[  30.802][v][cplayer] Set property: speed="1" -[  30.802][v][cplayer] Set property: speed="1" -> 1
+[  30.802][v][cplayer] Set property: video-aspect="1" -> 1
+property: speed="1" -> 1
+[  30.802][v][cplayer] Set property: video-aspect="1" -> 1
+format bestvideo+bestaudio/best --all-subs --no-playlist -- http://192.168.1.6:8080/media/chongqing/H20200421-200809NP220F.1.SS7C.95.3806.mp4 
+[  17.852][d][cplayer] Run command: subprocess, flags=64, args=["youtube-dl,--no-warnings,-J,--flat-playlist,--sub-format,ass/srt/best,--format,bestvideo+bestaudio/best,--all-subs,--no-playlist,--,http://192.168.1.6:8080/media/chongqing/H20200421-200809NP220F.1.SS7C.95.3806.mp4", "yes", "67108864", "yes", "yes"[ [  17.874][e][ytdl_hook]  
+[  17.874][e][ytdl_hook] youtube-dl failed: not found or not enough permissions 
+[  17.874][v][cplayer] finished playback, loading failed (reason 4)
+[  17.874][i][cplayer][  18.849][v][cplayer] Set property: speed="1" -> 1
+[  18.849][v][cplayer] Set property: video-aspect="1.4136546184739" -> 1
+[  25.855][v][cplayer] Set property: speed="1" -> 1
+[  27.442][v][cplayer] Set property: video-aspect="1.37349397590361" -> 1
+[  27.505][v][cplayer] Set property: speed="1" -> 1
+[  27.926][v][cplayer] Set property: speed="1" -> 1
+[  [  28.514][v][cplayer] Set property: speed="1" -> 1
+[  28.710][v][cplayer] Set property: speed="1" -> 1
+[  28.928][v][cplayer] Set property: speed="1" -> 1
+[  28.928][v][cplayer] Set property: video-aspect="1.37903225806452" -> 1
+[  29.437][v][cplayer] Set property: speed="1" -> 1
+[  29.712][v][cplayer] Set property: speed="1" -> 1
+[  29.712][v][cplayer] Set property: video-aspect="1.37903225806452" -> 1
+[  29.800][v][cplayer] Set property: speed="1" -> 1
+[  30.801][v][cplayer] Set property: speed="1" -> 1
+[  30.801][v][cplayer] Set property: video-aspect="1.37903225806452" -> 1
+[  32.500][d][cplayer] Run command: loadfile, flags=64, args=["http://192.168.1.6:8080/media/chongqing/SS3B5017_绉戠爺鎵�_2_20190417_032324_00002.mp4", "replace", ""]
+[  32.500][v][cplayer] Running hook: ytdl_hook/on_load
+[  32.500][v][ytdl_hook] ytdl:// hook 
+[  32.500][v][cplayer] Set property: pause="no" -> 1
+[  32.500][v][ytdl_hook] not a ytdl:// url 
+[  32.500][v][ffmpeg] Opening http://192.168.1.6:8080/media/chongqing/SS3B5017_绉戠爺鎵�_2_20190417_032324_00002.mp4
+[  32.547][v][ffmpeg] Could not set AVOption tls_verify='0'
+[  32.547][d][ffmpeg] resize stream to 131072 bytes
+[  32.547][v][ffmpeg] Mime-type: 'video/mp4'
+[  32.547][d][ffmpeg] Stream opened successfully.
+[  32.547][v][demux] Trying demuxers for level=normal.
+[  32.547][d][demux] Trying demuxer: disc (force-level: normal)
+[  32.547][d][demux] Trying demuxer: edl (force-level: normal)
+[  32.547][d][demux] Trying demuxer: cue (force-level: normal)
+[  32.547][d][demux] Trying demuxer: rawaudio (force-level: normal)
+[  32.547][d][demux] Trying demuxer: rawvideo (force-level: normal)
+[  32.547][d][demux] Trying demuxer: mkv (force-level: normal)
+[  32.547][d][demux] Trying demuxer: libarchive (force-level: normal)
+[  32.547][d][demux] Trying demuxer: lavf (force-level: normal)
+[  32.551][v][lavf] Found 'mov,mp4,m4a,3gp,3g2,mj2' at score=100 size=2048.
+[  32.553][v][ffmpeg] stream level seek from 4055 to 66999911
+[  32.588][v][demux] Detected file format: mov,mp4,m4a,3gp,3g2,mj2 (libavformat)
+[  32.588][v][cplayer] Opening done: http://192.168.1.6:8080/media/chongqing/SS3B5017_绉戠爺鎵�_2_20190417_032324_00002.mp4
+[  32.588][v][cplayer] Running hook: ytdl_hook/on_preloaded
+[  32.589][v][lavf] select track 0
+[  32.589][i][cplayer]  (+) Video --vid=1 (*) (h264 1280x720 12.000fps)
+[  32.589][v][vo/gpu] Probing for best GPU context.
+[  32.589][v][vo/gpu/d3d11] Initializing GPU context 'd3d11'
+[  32.602][v][vo/gpu/d3d11] Using Direct3D 11 feature level 12_1
+[  32.602][v][vo/gpu/d3d11] Device Name: Intel(R) HD Graphics 630
+[  32.602][v][vo/gpu/d3d11] Device ID: 8086:591b (rev 04)
+[  32.602][v][vo/gpu/d3d11] Subsystem ID: 103c:8275
+[  32.602][v][vo/gpu/d3d11] LUID: 0000000000014097
+[  32.602][v][vo/gpu/d3d11] Initializing SPIR-V compiler 'shaderc'
+[  32.602][v][vo/gpu/d3d11] Using Direct3D 11.1 runtime
+[  32.603][v][vo/gpu/d3d11] Maximum Texture2D size: 16384x16384
+[  32.603][v][vo/gpu/d3d11] D3DCompiler version: 10.0.16299.1004
+[  32.613][v][vo/gpu/win32] resize window: 342:248
+[  32.613][v][vo/gpu/win32] DPI detected from the new API: 96
+[  32.614][v][vo/gpu/win32] display-fps: 60.020425
+[  32.616][v][vo/gpu/win32] color-profile: C:\WINDOWS\system32\spool\drivers\color\sRGB Color Space Profile.icm
+[  32.616][d][vo/gpu/win32] move window: 0:0
+[  32.620][v][vo/gpu/d3d11] Using DXGI 1.2+
+[  32.620][v][vo/gpu/d3d11] Queried output: \\.\DISPLAY2, 1536x864 @ 6 bits, colorspace: RGB_FULL_G22_NONE_P709 (0)
+[  32.620][v][vo/gpu/d3d11] Selected swapchain format R8G8B8A8_UNORM (28), attempting to utilize it.
+[  32.621][v][vo/gpu/d3d11] Using flip-model presentation
+[  32.622][d][vo/gpu/d3d11] Texture formats:
+[  32.622][d][vo/gpu/d3d11]   NAME       COMP*TYPE SIZE           DEPTH PER COMP.
+[  32.622][d][vo/gpu/d3d11]   r8         1*unorm   1B    LF CR ST {8}
+[  32.622][d][vo/gpu/d3d11]   rg8        2*unorm   2B    LF CR ST {8 8}
+[  32.622][d][vo/gpu/d3d11]   rgba8      4*unorm   4B    LF CR ST {8 8 8 8}
+[  32.622][d][vo/gpu/d3d11]   r16        1*unorm   2B    LF CR ST {16}
+[  32.622][d][vo/gpu/d3d11]   rg16       2*unorm   4B    LF CR ST {16 16}
+[  32.622][d][vo/gpu/d3d11]   rgba16     4*unorm   8B    LF CR ST {16 16 16 16}
+[  32.622][d][vo/gpu/d3d11]   r32ui      1*uint    4B          ST {32}
+[  32.622][d][vo/gpu/d3d11]   rg32ui     2*uint    8B          ST {32 32}
+[  32.622][d][vo/gpu/d3d11]   rgb32ui    3*uint   12B             {32 32 32}
+[  32.622][d][vo/gpu/d3d11]   rgba32ui   4*uint   16B          ST {32 32 32 32}
+[  32.622][d][vo/gpu/d3d11]   r16hf      1*float   2B    LF CR ST {16}
+[  32.622][d][vo/gpu/d3d11]   rg16hf     2*float   4B    LF CR ST {16 16}
+[  32.622][d][vo/gpu/d3d11]   rgba16hf   4*float   8B    LF CR ST {16 16 16 16}
+[  32.622][d][vo/gpu/d3d11]   r32f       1*float   4B    LF CR ST {32}
+[  32.622][d][vo/gpu/d3d11]   rg32f      2*float   8B    LF CR ST {32 32}
+[  32.622][d][vo/gpu/d3d11]   rgb32f     3*float  12B    LF       {32 32 32}
+[  32.622][d][vo/gpu/d3d11]   rgba32f    4*float  16B    LF CR ST {32 32 32 32}
+[  32.622][d][vo/gpu/d3d11]   rgb10_a2   4*unorm   4B    LF CR ST {10 10 10 2}
+[  32.622][d][vo/gpu/d3d11]   bgra8      4*unorm   4B    LF CR    {8 8 8 8}
+[  32.622][d][vo/gpu/d3d11]   bgrx8      3*unorm   4B    LF CR    {8 8 8}
+[  32.622][d][vo/gpu/d3d11]  LA = LUMINANCE_ALPHA hack format
+[  32.622][d][vo/gpu/d3d11]  LF = linear filterable
+[  32.622][d][vo/gpu/d3d11]  CR = can be used for render targets
+[  32.622][d][vo/gpu/d3d11]  ST = can be used for storable images
+[  32.622][d][vo/gpu/d3d11] Image formats:
+[  32.622][d][vo/gpu/d3d11]   yuv444p => 3 planes 1x1 8/0 [r8/r8/r8] (r/g/b)
+[  32.622][d][vo/gpu/d3d11]   yuv420p => 3 planes 2x2 8/0 [r8/r8/r8] (r/g/b)
+[  32.622][d][vo/gpu/d3d11]   gray => 1 planes 1x1 8/0 [r8] (r)
+[  32.622][d][vo/gpu/d3d11]   gray16 => 1 planes 1x1 16/0 [r16] (r)
+[  32.622][d][vo/gpu/d3d11]   uyvy422
+[  32.622][d][vo/gpu/d3d11]   nv12 => 2 planes 2x2 8/0 [r8/rg8] (r/gb)
+[  32.622][d][vo/gpu/d3d11]   p010 => 2 planes 2x2 16/6 [r16/rg16] (r/gb)
+[  32.622][d][vo/gpu/d3d11]   nv24 => 2 planes 1x1 8/0 [r8/rg8] (r/gb)
+[  32.622][d][vo/gpu/d3d11]   argb => 1 planes 1x1 8/0 [rgba8] (argb)
+[  32.622][d][vo/gpu/d3d11]   bgra => 1 planes 1x1 8/0 [rgba8] (bgra)
+[  32.622][d][vo/gpu/d3d11]   abgr => 1 planes 1x1 8/0 [rgba8] (abgr)
+[  32.622][d][vo/gpu/d3d11]   rgba => 1 planes 1x1 8/0 [rgba8] (rgba)
+[  32.622][d][vo/gpu/d3d11]   bgr24
+[  32.622][d][vo/gpu/d3d11]   rgb24
+[  32.622][d][vo/gpu/d3d11]   0rgb => 1 planes 1x1 8/0 [rgba8] (_rgb)
+[  32.622][d][vo/gpu/d3d11]   bgr0 => 1 planes 1x1 8/0 [rgba8] (bgr)
+[  32.622][d][vo/gpu/d3d11]   0bgr => 1 planes 1x1 8/0 [rgba8] (_bgr)
+[  32.622][d][vo/gpu/d3d11]   rgb0 => 1 planes 1x1 8/0 [rgba8] (rgb)
+[  32.622][d][vo/gpu/d3d11]   rgba64 => 1 planes 1x1 16/0 [rgba16] (rgba)
+[  32.622][d][vo/gpu/d3d11]   rgb565
+[  32.622][d][vo/gpu/d3d11]   rgb30
+[  32.622][d][vo/gpu/d3d11]   vdpau
+[  32.622][d][vo/gpu/d3d11]   vdpau_output
+[  32.622][d][vo/gpu/d3d11]   vaapi
+[  32.622][d][vo/gpu/d3d11]   d3d11
+[  32.622][d][vo/gpu/d3d11]   dxva2_vld
+[  32.622][d][vo/gpu/d3d11]   mmal
+[  32.622][d][vo/gpu/d3d11]   videotoolbox
+[  32.622][d][vo/gpu/d3d11]   drm_prime
+[  32.623][d][vo/gpu/d3d11]   cuda
+[  32.623][d][vo/gpu/d3d11]   yuyv422
+[  32.623][d][vo/gpu/d3d11]   yuv422p => 3 planes 2x1 8/0 [r8/r8/r8] (r/g/b)
+[  32.623][d][vo/gpu/d3d11]   yuv410p => 3 planes 4x4 8/0 [r8/r8/r8] (r/g/b)
+[  32.623][d][vo/gpu/d3d11]   yuv411p => 3 planes 4x1 8/0 [r8/r8/r8] (r/g/b)
+[  32.623][d][vo/gpu/d3d11]   monow
+[  32.623][d][vo/gpu/d3d11]   monob
+[  32.623][d][vo/gpu/d3d11]   pal8
+[  32.623][d][vo/gpu/d3d11]   yuvj422p => 3 planes 2x1 8/0 [r8/r8/r8] (r/g/b)
+[  32.623][d][vo/gpu/d3d11]   uyyvyy411
+[  32.623][d][vo/gpu/d3d11]   bgr8
+[  32.623][d][vo/gpu/d3d11]   bgr4
+[  32.623][d][vo/gpu/d3d11]   bgr4_byte
+[  32.623][d][vo/gpu/d3d11]   rgb8
+[  32.623][d][vo/gpu/d3d11]   rgb4
+[  32.623][d][vo/gpu/d3d11]   rgb4_byte
+[  32.623][d][vo/gpu/d3d11]   nv21 => 2 planes 2x2 8/0 [r8/rg8] (r/bg)
+[  32.623][d][vo/gpu/d3d11]   gray16be
+[  32.623][d][vo/gpu/d3d11]   yuv440p => 3 planes 1x2 8/0 [r8/r8/r8] (r/g/b)
+[  32.623][d][vo/gpu/d3d11]   yuvj440p => 3 planes 1x2 8/0 [r8/r8/r8] (r/g/b)
+[  32.623][d][vo/gpu/d3d11]   yuva420p => 4 planes 2x2 8/0 [r8/r8/r8/r8] (r/g/b/a)
+[  32.623][d][vo/gpu/d3d11]   rgb48be
+[  32.623][d][vo/gpu/d3d11]   rgb48
+[  32.623][d][vo/gpu/d3d11]   rgb565be
+[  32.623][d][vo/gpu/d3d11]   rgb555be
+[  32.623][d][vo/gpu/d3d11]   rgb555
+[  32.623][d][vo/gpu/d3d11]   bgr565be
+[  32.623][d][vo/gpu/d3d11]   bgr565
+[  32.623][d][vo/gpu/d3d11]   bgr555be
+[  32.623][d][vo/gpu/d3d11]   bgr555
+[  32.623][d][vo/gpu/d3d11]   vaapi_moco
+[  32.623][d][vo/gpu/d3d11]   vaapi_idct
+[  32.623][d][vo/gpu/d3d11]   yuv420p16 => 3 planes 2x2 16/0 [r16/r16/r16] (r/g/b)
+[  32.623][d][vo/gpu/d3d11]   yuv420p16be
+[  32.623][d][vo/gpu/d3d11]   yuv422p16 => 3 planes 2x1 16/0 [r16/r16/r16] (r/g/b)
+[  32.623][d][vo/gpu/d3d11]   yuv422p16be
+[  32.623][d][vo/gpu/d3d11]   yuv444p16 => 3 planes 1x1 16/0 [r16/r16/r16] (r/g/b)
+[  32.623][d][vo/gpu/d3d11]   yuv444p16be
+[  32.623][d][vo/gpu/d3d11]   rgb444
+[  32.623][d][vo/gpu/d3d11]   rgb444be
+[  32.623][d][vo/gpu/d3d11]   bgr444
+[  32.623][d][vo/gpu/d3d11]   bgr444be
+[  32.623][d][vo/gpu/d3d11]   ya8 => 1 planes 1x1 8/0 [rg8] (ra)
+[  32.623][d][vo/gpu/d3d11]   bgr48be
+[  32.623][d][vo/gpu/d3d11]   bgr48
+[  32.623][d][vo/gpu/d3d11]   yuv420p9be
+[  32.623][d][vo/gpu/d3d11]   yuv420p9 => 3 planes 2x2 16/-7 [r16/r16/r16] (r/g/b)
+[  32.623][d][vo/gpu/d3d11]   yuv420p10be
+[  32.623][d][vo/gpu/d3d11]   yuv420p10 => 3 planes 2x2 16/-6 [r16/r16/r16] (r/g/b)
+[  32.623][d][vo/gpu/d3d11]   yuv422p10be
+[  32.623][d][vo/gpu/d3d11]   yuv422p10 => 3 planes 2x1 16/-6 [r16/r16/r16] (r/g/b)
+[  32.623][d][vo/gpu/d3d11]   yuv444p9be
+[  32.623][d][vo/gpu/d3d11]   yuv444p9 => 3 planes 1x1 16/-7 [r16/r16/r16] (r/g/b)
+[  32.623][d][vo/gpu/d3d11]   yuv444p10be
+[  32.623][d][vo/gpu/d3d11]   yuv444p10 => 3 planes 1x1 16/-6 [r16/r16/r16] (r/g/b)
+[  32.623][d][vo/gpu/d3d11]   yuv422p9be
+[  32.623][d][vo/gpu/d3d11]   yuv422p9 => 3 planes 2x1 16/-7 [r16/r16/r16] (r/g/b)
+[  32.623][d][vo/gpu/d3d11]   gbrp => 3 planes 1x1 8/0 [r8/r8/r8] (g/b/r)
+[  32.623][d][vo/gpu/d3d11]   gbrp9be
+[  32.623][d][vo/gpu/d3d11]   gbrp9 => 3 planes 1x1 16/-7 [r16/r16/r16] (g/b/r)
+[  32.623][d][vo/gpu/d3d11]   gbrp10be
+[  32.623][d][vo/gpu/d3d11]   gbrp10 => 3 planes 1x1 16/-6 [r16/r16/r16] (g/b/r)
+[  32.623][d][vo/gpu/d3d11]   gbrp16be
+[  32.623][d][vo/gpu/d3d11]   gbrp16 => 3 planes 1x1 16/0 [r16/r16/r16] (g/b/r)
+[  32.623][d][vo/gpu/d3d11]   yuva422p => 4 planes 2x1 8/0 [r8/r8/r8/r8] (r/g/b/a)
+[  32.623][d][vo/gpu/d3d11]   yuva444p => 4 planes 1x1 8/0 [r8/r8/r8/r8] (r/g/b/a)
+[  32.623][d][vo/gpu/d3d11]   yuva420p9be
+[  32.623][d][vo/gpu/d3d11]   yuva420p9 => 4 planes 2x2 16/-7 [r16/r16/r16/r16] (r/g/b/a)
+[  32.623][d][vo/gpu/d3d11]   yuva422p9be
+[  32.623][d][vo/gpu/d3d11]   yuva422p9 => 4 planes 2x1 16/-7 [r16/r16/r16/r16] (r/g/b/a)
+[  32.623][d][vo/gpu/d3d11]   yuva444p9be
+[  32.623][d][vo/gpu/d3d11]   yuva444p9 => 4 planes 1x1 16/-7 [r16/r16/r16/r16] (r/g/b/a)
+[  32.623][d][vo/gpu/d3d11]   yuva420p10be
+[  32.623][d][vo/gpu/d3d11]   yuva420p10 => 4 planes 2x2 16/-6 [r16/r16/r16/r16] (r/g/b/a)
+[  32.623][d][vo/gpu/d3d11]   yuva422p10be
+[  32.623][d][vo/gpu/d3d11]   yuva422p10 => 4 planes 2x1 16/-6 [r16/r16/r16/r16] (r/g/b/a)
+[  32.623][d][vo/gpu/d3d11]   yuva444p10be
+[  32.623][d][vo/gpu/d3d11]   yuva444p10 => 4 planes 1x1 16/-6 [r16/r16/r16/r16] (r/g/b/a)
+[  32.623][d][vo/gpu/d3d11]   yuva420p16be
+[  32.623][d][vo/gpu/d3d11]   yuva420p16 => 4 planes 2x2 16/0 [r16/r16/r16/r16] (r/g/b/a)
+[  32.623][d][vo/gpu/d3d11]   yuva422p16be
+[  32.623][d][vo/gpu/d3d11]   yuva422p16 => 4 planes 2x1 16/0 [r16/r16/r16/r16] (r/g/b/a)
+[  32.623][d][vo/gpu/d3d11]   yuva444p16be
+[  32.623][d][vo/gpu/d3d11]   yuva444p16 => 4 planes 1x1 16/0 [r16/r16/r16/r16] (r/g/b/a)
+[  32.623][d][vo/gpu/d3d11]   xyz12
+[  32.623][d][vo/gpu/d3d11]   xyz12be
+[  32.623][d][vo/gpu/d3d11]   nv16 => 2 planes 2x1 8/0 [r8/rg8] (r/gb)
+[  32.623][d][vo/gpu/d3d11]   nv20 => 2 planes 2x1 16/-6 [r16/rg16] (r/gb)
+[  32.623][d][vo/gpu/d3d11]   nv20be
+[  32.623][d][vo/gpu/d3d11]   rgba64be
+[  32.623][d][vo/gpu/d3d11]   bgra64be
+[  32.623][d][vo/gpu/d3d11]   bgra64 => 1 planes 1x1 16/0 [rgba16] (bgra)
+[  32.623][d][vo/gpu/d3d11]   yvyu422
+[  32.623][d][vo/gpu/d3d11]   ya16be
+[  32.623][d][vo/gpu/d3d11]   ya16 => 1 planes 1x1 16/0 [rg16] (ra)
+[  32.623][d][vo/gpu/d3d11]   gbrap => 4 planes 1x1 8/0 [r8/r8/r8/r8] (g/b/r/a)
+[  32.623][d][vo/gpu/d3d11]   gbrap16be
+[  32.623][d][vo/gpu/d3d11]   gbrap16 => 4 planes 1x1 16/0 [r16/r16/r16/r16] (g/b/r/a)
+[  32.623][d][vo/gpu/d3d11]   qsv
+[  32.623][d][vo/gpu/d3d11]   d3d11va_vld
+[  32.623][d][vo/gpu/d3d11]   yuv420p12be
+[  32.623][d][vo/gpu/d3d11]   yuv420p12 => 3 planes 2x2 16/-4 [r16/r16/r16] (r/g/b)
+[  32.623][d][vo/gpu/d3d11]   yuv420p14be
+[  32.623][d][vo/gpu/d3d11]   yuv420p14 => 3 planes 2x2 16/-2 [r16/r16/r16] (r/g/b)
+[  32.623][d][vo/gpu/d3d11]   yuv422p12be
+[  32.623][d][vo/gpu/d3d11]   yuv422p12 => 3 planes 2x1 16/-4 [r16/r16/r16] (r/g/b)
+[  32.623][d][vo/gpu/d3d11]   yuv422p14be
+[  32.623][d][vo/gpu/d3d11]   yuv422p14 => 3 planes 2x1 16/-2 [r16/r16/r16] (r/g/b)
+[  32.623][d][vo/gpu/d3d11]   yuv444p12be
+[  32.623][d][vo/gpu/d3d11]   yuv444p12 => 3 planes 1x1 16/-4 [r16/r16/r16] (r/g/b)
+[  32.623][d][vo/gpu/d3d11]   yuv444p14be
+[  32.623][d][vo/gpu/d3d11]   yuv444p14 => 3 planes 1x1 16/-2 [r16/r16/r16] (r/g/b)
+[  32.623][d][vo/gpu/d3d11]   gbrp12be
+[  32.623][d][vo/gpu/d3d11]   gbrp12 => 3 planes 1x1 16/-4 [r16/r16/r16] (g/b/r)
+[  32.624][d][vo/gpu/d3d11]   gbrp14be
+[  32.624][d][vo/gpu/d3d11]   gbrp14 => 3 planes 1x1 16/-2 [r16/r16/r16] (g/b/r)
+[  32.624][d][vo/gpu/d3d11]   yuvj411p => 3 planes 4x1 8/0 [r8/r8/r8] (r/g/b)
+[  32.624][d][vo/gpu/d3d11]   bayer_bggr8
+[  32.624][d][vo/gpu/d3d11]   bayer_rggb8
+[  32.624][d][vo/gpu/d3d11]   bayer_gbrg8
+[  32.624][d][vo/gpu/d3d11]   bayer_grbg8
+[  32.624][d][vo/gpu/d3d11]   bayer_bggr16
+[  32.624][d][vo/gpu/d3d11]   bayer_bggr16be
+[  32.624][d][vo/gpu/d3d11]   bayer_rggb16
+[  32.624][d][vo/gpu/d3d11]   bayer_rggb16be
+[  32.624][d][vo/gpu/d3d11]   bayer_gbrg16
+[  32.624][d][vo/gpu/d3d11]   bayer_gbrg16be
+[  32.624][d][vo/gpu/d3d11]   bayer_grbg16
+[  32.624][d][vo/gpu/d3d11]   bayer_grbg16be
+[  32.624][d][vo/gpu/d3d11]   xvmc
+[  32.624][d][vo/gpu/d3d11]   yuv440p10 => 3 planes 1x2 16/-6 [r16/r16/r16] (r/g/b)
+[  32.624][d][vo/gpu/d3d11]   yuv440p10be
+[  32.624][d][vo/gpu/d3d11]   yuv440p12 => 3 planes 1x2 16/-4 [r16/r16/r16] (r/g/b)
+[  32.624][d][vo/gpu/d3d11]   yuv440p12be
+[  32.624][d][vo/gpu/d3d11]   ayuv64 => 1 planes 1x1 16/0 [rgba16] (argb)
+[  32.624][d][vo/gpu/d3d11]   ayuv64be
+[  32.624][d][vo/gpu/d3d11]   videotoolbox_vl
+[  32.624][d][vo/gpu/d3d11]   p010be
+[  32.624][d][vo/gpu/d3d11]   gbrap12be
+[  32.624][d][vo/gpu/d3d11]   gbrap12 => 4 planes 1x1 16/-4 [r16/r16/r16/r16] (g/b/r/a)
+[  32.624][d][vo/gpu/d3d11]   gbrap10be
+[  32.624][d][vo/gpu/d3d11]   gbrap10 => 4 planes 1x1 16/-6 [r16/r16/r16/r16] (g/b/r/a)
+[  32.624][d][vo/gpu/d3d11]   mediacodec
+[  32.624][d][vo/gpu/d3d11]   gray12be
+[  32.624][d][vo/gpu/d3d11]   gray12 => 1 planes 1x1 16/-4 [r16] (r)
+[  32.624][d][vo/gpu/d3d11]   gray10be
+[  32.624][d][vo/gpu/d3d11]   gray10 => 1 planes 1x1 16/-6 [r16] (r)
+[  32.624][d][vo/gpu/d3d11]   p016 => 2 planes 2x2 16/0 [r16/rg16] (r/gb)
+[  32.624][d][vo/gpu/d3d11]   p016be
+[  32.624][d][vo/gpu/d3d11]   gray9be
+[  32.624][d][vo/gpu/d3d11]   gray9 => 1 planes 1x1 16/-7 [r16] (r)
+[  32.624][d][vo/gpu/d3d11]   gbrpf32be
+[  32.624][d][vo/gpu/d3d11]   gbrpf32 => 3 planes 1x1 32/0 [r32f/r32f/r32f] (g/b/r)
+[  32.624][d][vo/gpu/d3d11]   gbrapf32be
+[  32.624][d][vo/gpu/d3d11]   gbrapf32 => 4 planes 1x1 32/0 [r32f/r32f/r32f/r32f] (g/b/r/a)
+[  32.624][d][vo/gpu/d3d11]   opencl
+[  32.624][d][vo/gpu/d3d11]   gray14be
+[  32.624][d][vo/gpu/d3d11]   gray14 => 1 planes 1x1 16/-2 [r16] (r)
+[  32.624][d][vo/gpu/d3d11]   grayf32be
+[  32.624][d][vo/gpu/d3d11]   grayf32 => 1 planes 1x1 32/0 [r32f] (r)
+[  32.624][d][vo/gpu/d3d11]   yuva422p12be
+[  32.624][d][vo/gpu/d3d11]   yuva422p12 => 4 planes 2x1 16/-4 [r16/r16/r16/r16] (r/g/b/a)
+[  32.624][d][vo/gpu/d3d11]   yuva444p12be
+[  32.624][d][vo/gpu/d3d11]   yuva444p12 => 4 planes 1x1 16/-4 [r16/r16/r16/r16] (r/g/b/a)
+[  32.624][d][vo/gpu/d3d11]   nv42 => 2 planes 1x1 8/0 [r8/rg8] (r/bg)
+[  32.624][v][vo/gpu] Testing FBO format rgba16hf
+[  32.624][d][vo/gpu] Resizing texture: 16x16
+[  32.624][v][vo/gpu] Using FBO format rgba16hf.
+[  32.624][v][vo/gpu] No advanced processing required. Enabling dumb mode.
+[  32.624][v][vo/gpu] Assuming 8.000000 FPS for display sync.
+[  32.625][v][vo/gpu] Resize: 342x248
+[  32.625][v][vo/gpu] Reported display depth: 8
+[  32.627][v][vd] Container reported FPS: 12.000000
+[  32.627][v][vd] Codec list:
+[  32.627][v][vd]     h264 - H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+[  32.627][v][vd]     h264_qsv (h264) - H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10 (Intel Quick Sync Video acceleration)
+[  32.627][v][vd]     h264_cuvid (h264) - Nvidia CUVID H264 decoder
+[  32.627][v][vd] Opening decoder h264
+[  32.627][v][vd] No hardware decoding requested.
+[  32.627][v][vd] Using software decoding.
+[  32.627][v][vd] Requesting 8 threads for decoding.
+[  32.628][v][vd] Selected codec: h264 (H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10)
+[  32.628][v][vf] User filter list:
+[  32.628][v][vf]   (empty)
+[  32.629][v][cplayer] Starting playback...
+[  32.629][v][ffmpeg] stream level seek from 67022630 to 168
+[  32.743][d][vd] DR parameter change to 1280x738 yuv420p align=64
+[  32.743][d][vd] Allocating new DR image...
+[  32.743][d][vd] ...failed..
+[  32.743][v][vd] DR failed - disabling.
+[  32.761][d][lavf] stream 0: resize index to 128
+[  32.770][v][vd] Decoder format: 1280x720 [0:1] yuv420p auto/auto/auto/auto/auto CL=mpeg2/4/h264
+[  32.771][v][vd] Forcing user-set aspect ratio.
+[  32.771][v][vf] [in] 1280x720 [104113449:134217728] yuv420p bt.709/bt.709/bt.1886/limited/display SP=1.000000 CL=mpeg2/4/h264
+[  32.771][v][vf] [userdeint] 1280x720 [104113449:134217728] yuv420p bt.709/bt.709/bt.1886/limited/display SP=1.000000 CL=mpeg2/4/h264
+[  32.771][v][vf] [userdeint] (disabled)
+[  32.771][v][vf] [autorotate] 1280x720 [104113449:134217728] yuv420p bt.709/bt.709/bt.1886/limited/display SP=1.000000 CL=mpeg2/4/h264
+[  32.771][v][vf] [autorotate] (disabled)
+[  32.771][v][vf] [convert] 1280x720 [104113449:134217728] yuv420p bt.709/bt.709/bt.1886/limited/display SP=1.000000 CL=mpeg2/4/h264
+[  32.771][v][vf] [convert] (disabled)
+[  32.771][v][vf] [out] 1280x720 [104113449:134217728] yuv420p bt.709/bt.709/bt.1886/limited/display SP=1.000000 CL=mpeg2/4/h264
+[  32.774][i][cplayer] VO: [gpu] 1280x720 => 1280x928 yuv420p
+[  32.774][v][cplayer] VO: Description: Shader-based GPU Renderer
+[  32.774][v][vo/gpu] reconfig to 1280x720 [104113449:134217728] yuv420p bt.709/bt.709/bt.1886/limited/display SP=1.000000 CL=mpeg2/4/h264
+[  32.774][d][vo/gpu] screen size: 1536x824
+[  32.775][v][vo/gpu] Resize: 342x248
+[  32.775][v][vo/gpu] Window size: 342x248 (Borders: l=0 t=0 r=0 b=0)
+[  32.775][v][vo/gpu] Video source: 1280x720 (104113449:134217728)
+[  32.775][v][vo/gpu] Video display: (0, 0) 1280x720 -> (0, 0) 342x248
+[  32.775][v][vo/gpu] Video scale: 0.267188/0.344444
+[  32.775][v][vo/gpu] OSD borders: l=0 t=0 r=0 b=0
+[  32.775][v][vo/gpu] Video borders: l=0 t=0 r=0 b=0
+[  32.775][v][vo/gpu] Reported display depth: 8
+[  32.775][v][vo/gpu] Texture for plane 0: 1280x720
+[  32.775][v][vo/gpu] Texture for plane 1: 640x360
+[  32.775][v][vo/gpu] Texture for plane 2: 640x360
+[  32.775][v][vo/gpu] Testing FBO format rgba16hf
+[  32.775][d][vo/gpu] Resizing texture: 16x16
+[  32.775][v][vo/gpu] Using FBO format rgba16hf.
+[  32.775][v][vo/gpu] No advanced processing required. Enabling dumb mode.
+[  32.804][v][vo/gpu/d3d11] shaderc compile status 'success' (0 errors, 0 warnings)
+[  32.807][v][vo/gpu/d3d11] Compiled a vertex shader in 5768us
+[  32.807][v][vo/gpu/d3d11] shaderc: 2472us, SPIRV-Cross: 305us, D3DCompile: 2991us
+[  32.807][d][vo/gpu/d3d11] GLSL source:
+[  32.807][d][vo/gpu/d3d11] [  1] #version 450
+[  32.807][d][vo/gpu/d3d11] [  2] #define tex1D texture
+[  32.807][d][vo/gpu/d3d11] [  3] #define tex3D texture
+[  32.807][d][vo/gpu/d3d11] [  4] #define LUT_POS(x, lut_size) mix(0.5 / (lut_size), 1.0 - 0.5 / (lut_size), (x))
+[  32.807][d][vo/gpu/d3d11] [  5] layout(location=0) in vec2 vertex_position;
+[  32.807][d][vo/gpu/d3d11] [  6] layout(location=1) in vec2 vertex_texcoord0;
+[  32.807][d][vo/gpu/d3d11] [  7] layout(location=1) out vec2 texcoord0;
+[  32.807][d][vo/gpu/d3d11] [  8] layout(location=2) in vec2 vertex_texcoord1;
+[  32.807][d][vo/gpu/d3d11] [  9] layout(location=2) out vec2 texcoord1;
+[  32.807][d][vo/gpu/d3d11] [ 10] layout(location=3) in vec2 vertex_texcoord2;
+[  32.807][d][vo/gpu/d3d11] [ 11] layout(location=3) out vec2 texcoord2;
+[  32.807][d][vo/gpu/d3d11] [ 12] void main() {
+[  32.807][d][vo/gpu/d3d11] [ 13] gl_Position = vec4(vertex_position, 1.0, 1.0);
+[  32.807][d][vo/gpu/d3d11] [ 14] texcoord0 = vertex_texcoord0;
+[  32.807][d][vo/gpu/d3d11] [ 15] texcoord1 = vertex_texcoord1;
+[  32.807][d][vo/gpu/d3d11] [ 16] texcoord2 = vertex_texcoord2;
+[  32.807][d][vo/gpu/d3d11] [ 17] }
+[  32.807][d][vo/gpu/d3d11] HLSL source:
+[  32.807][d][vo/gpu/d3d11] [  1] static float4 gl_Position;
+[  32.807][d][vo/gpu/d3d11] [  2] static float2 _18;
+[  32.807][d][vo/gpu/d3d11] [  3] static float2 _27;
+[  32.807][d][vo/gpu/d3d11] [  4] static float2 _28;
+[  32.807][d][vo/gpu/d3d11] [  5] static float2 _30;
+[  32.807][d][vo/gpu/d3d11] [  6] static float2 _31;
+[  32.807][d][vo/gpu/d3d11] [  7] static float2 _33;
+[  32.807][d][vo/gpu/d3d11] [  8] static float2 _34;
+[  32.807][d][vo/gpu/d3d11] [  9] 
+[  32.807][d][vo/gpu/d3d11] [ 10] struct SPIRV_Cross_Input
+[  32.807][d][vo/gpu/d3d11] [ 11] {
+[  32.808][d][vo/gpu/d3d11] [ 12]     float2 _18 : TEXCOORD0;
+[  32.808][d][vo/gpu/d3d11] [ 13]     float2 _28 : TEXCOORD1;
+[  32.808][d][vo/gpu/d3d11] [ 14]     float2 _31 : TEXCOORD2;
+[  32.808][d][vo/gpu/d3d11] [ 15]     float2 _34 : TEXCOORD3;
+[  32.808][d][vo/gpu/d3d11] [ 16] };
+[  32.808][d][vo/gpu/d3d11] [ 17] 
+[  32.808][d][vo/gpu/d3d11] [ 18] struct SPIRV_Cross_Output
+[  32.808][d][vo/gpu/d3d11] [ 19] {
+[  32.808][d][vo/gpu/d3d11] [ 20]     float2 _27 : TEXCOORD1;
+[  32.808][d][vo/gpu/d3d11] [ 21]     float2 _30 : TEXCOORD2;
+[  32.808][d][vo/gpu/d3d11] [ 22]     float2 _33 : TEXCOORD3;
+[  32.808][d][vo/gpu/d3d11] [ 23]     float4 gl_Position : SV_Position;
+[  32.808][d][vo/gpu/d3d11] [ 24] };
+[  32.808][d][vo/gpu/d3d11] [ 25] 
+[  32.808][d][vo/gpu/d3d11] [ 26] void vert_main()
+[  32.808][d][vo/gpu/d3d11] [ 27] {
+[  32.808][d][vo/gpu/d3d11] [ 28]     gl_Position = float4(_18, 1.0f, 1.0f);
+[  32.808][d][vo/gpu/d3d11] [ 29]     _27 = _28;
+[  32.808][d][vo/gpu/d3d11] [ 30]     _30 = _31;
+[  32.808][d][vo/gpu/d3d11] [ 31]     _33 = _34;
+[  32.808][d][vo/gpu/d3d11] [ 32]     gl_Position.y = -gl_Position.y;
+[  32.808][d][vo/gpu/d3d11] [ 33] }
+[  32.808][d][vo/gpu/d3d11] [ 34] 
+[  32.808][d][vo/gpu/d3d11] [ 35] SPIRV_Cross_Output main(SPIRV_Cross_Input stage_input)
+[  32.808][d][vo/gpu/d3d11] [ 36] {
+[  32.808][d][vo/gpu/d3d11] [ 37]     _18 = stage_input._18;
+[  32.808][d][vo/gpu/d3d11] [ 38]     _28 = stage_input._28;
+[  32.808][d][vo/gpu/d3d11] [ 39]     _31 = stage_input._31;
+[  32.808][d][vo/gpu/d3d11] [ 40]     _34 = stage_input._34;
+[  32.808][d][vo/gpu/d3d11] [ 41]     vert_main();
+[  32.808][d][vo/gpu/d3d11] [ 42]     SPIRV_Cross_Output stage_output;
+[  32.808][d][vo/gpu/d3d11] [ 43]     stage_output.gl_Position = gl_Position;
+[  32.808][d][vo/gpu/d3d11] [ 44]     stage_output._27 = _27;
+[  32.808][d][vo/gpu/d3d11] [ 45]     stage_output._30 = _30;
+[  32.808][d][vo/gpu/d3d11] [ 46]     stage_output._33 = _33;
+[  32.808][d][vo/gpu/d3d11] [ 47]     return stage_output;
+[  32.808][d][vo/gpu/d3d11] [ 48] }
+[  32.814][v][vo/gpu/d3d11] shaderc compile status 'success' (0 errors, 0 warnings)
+[  32.820][v][vo/gpu/d3d11] Compiled a fragment shader in 12184us
+[  32.821][v][vo/gpu/d3d11] shaderc: 5558us, SPIRV-Cross: 934us, D3DCompile: 5692us
+[  32.821][d][vo/gpu/d3d11] GLSL source:
+[  32.821][d][vo/gpu/d3d11] [  1] #version 450
+[  32.821][d][vo/gpu/d3d11] [  2] #define tex1D texture
+[  32.821][d][vo/gpu/d3d11] [  3] #define tex3D texture
+[  32.821][d][vo/gpu/d3d11] [  4] #define LUT_POS(x, lut_size) mix(0.5 / (lut_size), 1.0 - 0.5 / (lut_size), (x))
+[  32.821][d][vo/gpu/d3d11] [  5] layout(location=0) out vec4 out_color;
+[  32.821][d][vo/gpu/d3d11] [  6] layout(location=1) in vec2 texcoord0;
+[  32.821][d][vo/gpu/d3d11] [  7] layout(location=2) in vec2 texcoord1;
+[  32.821][d][vo/gpu/d3d11] [  8] layout(location=3) in vec2 texcoord2;
+[  32.821][d][vo/gpu/d3d11] [  9] layout(std140, binding=0) uniform UBO {
+[  32.821][d][vo/gpu/d3d11] [ 10] layout(offset=0) mat3 colormatrix;
+[  32.821][d][vo/gpu/d3d11] [ 11] layout(offset=48) vec3 colormatrix_c;
+[  32.821][d][vo/gpu/d3d11] [ 12] layout(offset=64) vec3 src_luma;
+[  32.821][d][vo/gpu/d3d11] [ 13] layout(offset=80) vec3 dst_luma;
+[  32.821][d][vo/gpu/d3d11] [ 14] layout(offset=96) vec2 texture_size0;
+[  32.821][d][vo/gpu/d3d11] [ 15] layout(offset=112) mat2 texture_rot0;
+[  32.821][d][vo/gpu/d3d11] [ 16] layout(offset=144) vec2 texture_off0;
+[  32.821][d][vo/gpu/d3d11] [ 17] layout(offset=152) vec2 pixel_size0;
+[  32.821][d][vo/gpu/d3d11] [ 18] layout(offset=160) vec2 texture_size1;
+[  32.821][d][vo/gpu/d3d11] [ 19] layout(offset=176) mat2 texture_rot1;
+[  32.821][d][vo/gpu/d3d11] [ 20] layout(offset=208) vec2 texture_off1;
+[  32.821][d][vo/gpu/d3d11] [ 21] layout(offset=216) vec2 pixel_size1;
+[  32.821][d][vo/gpu/d3d11] [ 22] layout(offset=224) vec2 texture_size2;
+[  32.821][d][vo/gpu/d3d11] [ 23] layout(offset=240) mat2 texture_rot2;
+[  32.821][d][vo/gpu/d3d11] [ 24] layout(offset=272) vec2 texture_off2;
+[  32.821][d][vo/gpu/d3d11] [ 25] layout(offset=280) vec2 pixel_size2;
+[  32.821][d][vo/gpu/d3d11] [ 26] };
+[  32.821][d][vo/gpu/d3d11] [ 27] layout(binding=0) uniform sampler2D texture0;
+[  32.821][d][vo/gpu/d3d11] [ 28] layout(binding=1) uniform sampler2D texture1;
+[  32.821][d][vo/gpu/d3d11] [ 29] layout(binding=2) uniform sampler2D texture2;
+[  32.821][d][vo/gpu/d3d11] [ 30] void main() {
+[  32.821][d][vo/gpu/d3d11] [ 31] vec4 color = vec4(0.0, 0.0, 0.0, 1.0);
+[  32.821][d][vo/gpu/d3d11] [ 32] color.r = 1.000000 * vec4(texture(texture0, texcoord0)).r;
+[  32.821][d][vo/gpu/d3d11] [ 33] color.g = 1.000000 * vec4(texture(texture1, texcoord1)).r;
+[  32.821][d][vo/gpu/d3d11] [ 34] color.b = 1.000000 * vec4(texture(texture2, texcoord2)).r;
+[  32.821][d][vo/gpu/d3d11] [ 35] color = color.rgbr;
+[  32.821][d][vo/gpu/d3d11] [ 36] color.rgb = mat3(colormatrix) * color.rgb + colormatrix_c;
+[  32.821][d][vo/gpu/d3d11] [ 37] color.a = 1.0;
+[  32.821][d][vo/gpu/d3d11] [ 38] // color mapping
+[  32.821][d][vo/gpu/d3d11] [ 39] color.rgb *= vec3(1.000000);
+[  32.821][d][vo/gpu/d3d11] [ 40] color.rgb *= vec3(1.000000);
+[  32.821][d][vo/gpu/d3d11] [ 41] out_color = color;
+[  32.821][d][vo/gpu/d3d11] [ 42] }
+[  32.821][d][vo/gpu/d3d11] HLSL source:
+[  32.821][d][vo/gpu/d3d11] [  1] cbuffer _67_69 : register(b0)
+[  32.821][d][vo/gpu/d3d11] [  2] {
+[  32.821][d][vo/gpu/d3d11] [  3]     row_major float3x3 _69_m0 : packoffset(c0);
+[  32.821][d][vo/gpu/d3d11] [  4]     float3 _69_m1 : packoffset(c3);
+[  32.821][d][vo/gpu/d3d11] [  5]     float3 _69_m2 : packoffset(c4);
+[  32.821][d][vo/gpu/d3d11] [  6]     float3 _69_m3 : packoffset(c5);
+[  32.821][d][vo/gpu/d3d11] [  7]     float2 _69_m4 : packoffset(c6);
+[  32.821][d][vo/gpu/d3d11] [  8]     row_major float2x2 _69_m5 : packoffset(c7);
+[  32.821][d][vo/gpu/d3d11] [  9]     float2 _69_m6 : packoffset(c9);
+[  32.821][d][vo/gpu/d3d11] [ 10]     float2 _69_m7 : packoffset(c9.z);
+[  32.821][d][vo/gpu/d3d11] [ 11]     float2 _69_m8 : packoffset(c10);
+[  32.821][d][vo/gpu/d3d11] [ 12]     row_major float2x2 _69_m9 : packoffset(c11);
+[  32.821][d][vo/gpu/d3d11] [ 13]     float2 _69_m10 : packoffset(c13);
+[  32.821][d][vo/gpu/d3d11] [ 14]     float2 _69_m11 : packoffset(c13.z);
+[  32.821][d][vo/gpu/d3d11] [ 15]     float2 _69_m12 : packoffset(c14);
+[  32.821][d][vo/gpu/d3d11] [ 16]     row_major float2x2 _69_m13 : packoffset(c15);
+[  32.821][d][vo/gpu/d3d11] [ 17]     float2 _69_m14 : packoffset(c17);
+[  32.821][d][vo/gpu/d3d11] [ 18]     float2 _69_m15 : packoffset(c17.z);
+[  32.821][d][vo/gpu/d3d11] [ 19] };
+[  32.821][d][vo/gpu/d3d11] [ 20] 
+[  32.821][d][vo/gpu/d3d11] [ 21] Texture2D<float4> _16 : register(t0);
+[  32.821][d][vo/gpu/d3d11] [ 22] SamplerState __16_sampler : register(s0);
+[  32.821][d][vo/gpu/d3d11] [ 23] Texture2D<float4> _34 : register(t1);
+[  32.821][d][vo/gpu/d3d11] [ 24] SamplerState __34_sampler : register(s1);
+[  32.821][d][vo/gpu/d3d11] [ 25] Texture2D<float4> _48 : register(t2);
+[  32.821][d][vo/gpu/d3d11] [ 26] SamplerState __48_sampler : register(s2);
+[  32.821][d][vo/gpu/d3d11] [ 27] 
+[  32.821][d][vo/gpu/d3d11] [ 28] static float2 _20;
+[  32.821][d][vo/gpu/d3d11] [ 29] static float2 _36;
+[  32.821][d][vo/gpu/d3d11] [ 30] static float2 _50;
+[  32.821][d][vo/gpu/d3d11] [ 31] static float4 _103;
+[  32.821][d][vo/gpu/d3d11] [ 32] 
+[  32.821][d][vo/gpu/d3d11] [ 33] struct SPIRV_Cross_Input
+[  32.821][d][vo/gpu/d3d11] [ 34] {
+[  32.821][d][vo/gpu/d3d11] [ 35]     float2 _20 : TEXCOORD1;
+[  32.821][d][vo/gpu/d3d11] [ 36]     float2 _36 : TEXCOORD2;
+[  32.821][d][vo/gpu/d3d11] [ 37]     float2 _50 : TEXCOORD3;
+[  32.821][d][vo/gpu/d3d11] [ 38] };
+[  32.821][d][vo/gpu/d3d11] [ 39] 
+[  32.821][d][vo/gpu/d3d11] [ 40] struct SPIRV_Cross_Output
+[  32.821][d][vo/gpu/d3d11] [ 41] {
+[  32.821][d][vo/gpu/d3d11] [ 42]     float4 _103 : SV_Target0;
+[  32.821][d][vo/gpu/d3d11] [ 43] };
+[  32.821][d][vo/gpu/d3d11] [ 44] 
+[  32.821][d][vo/gpu/d3d11] [ 45] float4 _114;
+[  32.821][d][vo/gpu/d3d11] [ 46] 
+[  32.821][d][vo/gpu/d3d11] [ 47] void frag_main()
+[  32.821][d][vo/gpu/d3d11] [ 48] {
+[  32.821][d][vo/gpu/d3d11] [ 49]     float4 _106 = _114;
+[  32.821][d][vo/gpu/d3d11] [ 50]     _106.x = _16.Sample(__16_sampler, _20).x;
+[  32.821][d][vo/gpu/d3d11] [ 51]     float4 _108 = _106;
+[  32.821][d][vo/gpu/d3d11] [ 52]     _108.y = _34.Sample(__34_sampler, _36).x;
+[  32.821][d][vo/gpu/d3d11] [ 53]     float4 _110 = _108;
+[  32.821][d][vo/gpu/d3d11] [ 54]     _110.z = _48.Sample(__48_sampler, _50).x;
+[  32.821][d][vo/gpu/d3d11] [ 55]     float3 _86 = mul(_110.xyz, _69_m0) + _69_m1;
+[  32.821][d][vo/gpu/d3d11] [ 56]     float4 _112 = float4(_86.x, _86.y, _86.z, _110.x);
+[  32.821][d][vo/gpu/d3d11] [ 57]     _112.w = 1.0f;
+[  32.821][d][vo/gpu/d3d11] [ 58]     _103 = float4(_112.x, _112.y, _112.z, _112.w);
+[  32.821][d][vo/gpu/d3d11] [ 59] }
+[  32.821][d][vo/gpu/d3d11] [ 60] 
+[  32.821][d][vo/gpu/d3d11] [ 61] SPIRV_Cross_Output main(SPIRV_Cross_Input stage_input)
+[  32.821][d][vo/gpu/d3d11] [ 62] {
+[  32.821][d][vo/gpu/d3d11] [ 63]     _20 = stage_input._20;
+[  32.821][d][vo/gpu/d3d11] [ 64]     _36 = stage_input._36;
+[  32.821][d][vo/gpu/d3d11] [ 65]     _50 = stage_input._50;
+[  32.821][d][vo/gpu/d3d11] [ 66]     frag_main();
+[  32.821][d][vo/gpu/d3d11] [ 67]     SPIRV_Cross_Output stage_output;
+[  32.821][d][vo/gpu/d3d11] [ 68]     stage_output._103 = _103;
+[  32.821][d][vo/gpu/d3d11] [ 69]     return stage_output;
+[  32.821][d][vo/gpu/d3d11] [ 70] }
+[  32.822][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  32.825][v][cplayer] first video frame after restart shown
+[  32.825][v][cplayer] playback restart complete @ 0.000000
+[  32.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  32.908][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  32.908][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  32.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  33.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  33.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  33.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  33.276][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  33.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  33.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  33.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  33.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  33.693][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  33.776][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  33.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  33.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  34.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  34.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  34.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  34.276][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  34.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  34.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  34.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  34.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  34.693][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  34.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  34.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  34.943][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  35.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  35.109][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  35.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  35.276][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  35.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  35.443][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  35.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  35.609][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  35.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  35.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  35.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  35.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  36.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  36.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  36.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  36.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  36.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  36.443][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  36.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  36.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  36.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  36.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  36.859][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  36.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  37.026][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  37.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  37.193][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  37.276][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  37.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  37.443][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  37.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  37.609][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  37.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  37.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  37.859][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  37.943][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  38.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  38.109][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  38.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  38.276][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  38.359][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  38.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  38.526][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  38.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  38.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  38.776][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  38.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  38.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  39.026][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  39.109][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  39.193][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  39.276][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  39.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  39.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  39.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  39.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  39.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  39.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  39.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  39.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  40.026][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  40.109][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  40.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  40.276][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  40.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  40.443][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  40.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  40.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  40.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  40.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  40.859][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  40.943][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  41.026][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  41.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  41.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  41.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  41.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  41.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  41.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  41.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  41.693][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  41.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  41.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  41.943][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  42.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  42.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  42.193][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  42.276][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  42.359][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  42.443][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  42.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  42.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  42.693][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  42.776][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  42.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  42.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  43.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  43.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  43.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  43.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  43.359][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  43.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  43.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  43.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  43.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  43.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  43.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  43.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  44.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  44.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  44.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  44.276][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  44.359][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  44.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  44.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  44.609][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  44.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  44.776][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  44.859][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  44.943][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  45.026][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  45.109][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  45.193][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  45.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  45.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  45.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  45.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  45.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  45.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  45.776][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  45.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  45.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  46.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  46.109][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  46.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  46.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  46.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  46.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  46.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  46.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  46.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  46.776][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  46.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  46.943][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  47.026][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  47.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  47.193][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  47.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  47.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  47.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  47.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  47.609][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  47.693][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  47.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  47.859][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  47.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.026][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.109][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.193][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.109][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.443][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.693][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.943][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.526][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.693][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.776][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.859][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.109][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.193][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.693][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.943][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.859][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.943][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.943][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.693][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.776][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.859][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.943][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.609][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.693][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.776][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.609][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.026][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.443][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.526][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.859][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.941][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.026][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.109][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.276][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.359][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.443][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.526][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.609][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.859][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.026][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.276][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.359][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.693][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.026][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.526][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.609][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.526][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.609][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.693][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.776][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.109][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.526][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.776][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.193][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.359][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.443][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.693][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.875][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.037][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.113][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.943][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.109][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.776][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.859][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.276][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.359][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.193][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.276][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.359][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.693][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.026][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.109][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.359][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.442][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.692][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.776][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.025][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.276][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.443][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.693][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.775][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.859][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.942][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.026][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.108][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.192][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.275][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.358][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.443][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.525][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.608][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.693][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.776][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.858][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.829][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.914][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.996][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.080][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.163][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.246][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.329][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.413][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.497][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.579][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.663][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.746][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.830][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.914][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.996][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.079][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.163][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.246][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.329][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.415][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.497][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.580][v][ffmpeg] stream level seek from 3387647 to 3338265
+[  50.580][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.664][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.746][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.830][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.914][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.996][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.080][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.164][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.246][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.329][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.413][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.497][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.580][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.663][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.747][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.830][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.913][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.997][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.079][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.163][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.246][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.330][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.413][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.496][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.579][v][ffmpeg] stream level seek from 3733422 to 3684270
+[  52.579][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.663][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.747][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.829][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.913][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.997][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.079][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.164][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.247][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.329][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.413][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.496][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.579][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.663][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.746][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.829][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.913][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.997][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.079][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.164][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.247][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.330][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.413][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.496][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.580][v][ffmpeg] stream level seek from 4085267 to 4033304
+[  54.580][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.664][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.747][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.830][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.913][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.996][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.079][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.163][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.247][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.330][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.413][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.497][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.580][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.663][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.747][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.830][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.913][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.997][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.079][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.164][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.246][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.329][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.414][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.496][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.580][v][ffmpeg] stream level seek from 4427001 to 4377849
+[  56.580][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.663][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.746][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.829][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.913][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.996][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.079][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.163][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.246][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.329][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.414][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.497][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.579][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.664][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.746][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.830][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.913][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.997][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.080][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.163][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.247][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.329][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.413][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.496][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.579][v][ffmpeg] stream level seek from 4776574 to 4727422
+[  58.579][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.663][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.746][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.830][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.913][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.997][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.080][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.163][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.246][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.330][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.413][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.497][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.579][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.664][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.746][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.829][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.913][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.996][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.079][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.163][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.247][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.330][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.413][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.497][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.579][v][ffmpeg] stream level seek from 5132799 to 5083647
+[  60.579][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.663][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.746][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.829][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.914][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.997][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.079][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.164][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.246][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.330][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.413][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.496][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.579][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.664][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.746][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.830][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.914][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.996][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.079][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.163][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.246][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.329][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.414][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.496][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.579][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.663][v][ffmpeg] stream level seek from 5481724 to 5428784
+[  62.663][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.746][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.829][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.913][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.997][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.080][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.163][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.246][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.329][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.413][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.496][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.580][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.663][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.746][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.829][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.913][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.997][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.080][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.164][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.246][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.329][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.413][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.496][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.579][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.664][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.747][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.747][v][ffmpeg] stream level seek from 5834161 to 5764759
+[  64.829][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.914][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.998][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.080][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.163][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.246][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.329][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.413][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.496][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.581][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.663][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.746][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.829][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.913][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.996][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.080][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.163][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.246][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.329][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.413][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.496][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.579][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.664][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.747][v][ffmpeg] stream level seek from 6181816 to 6111037
+[  66.747][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.829][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.913][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.996][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.080][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.164][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.247][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.329][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.413][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.496][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.579][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.663][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.746][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.830][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.913][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.997][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.080][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.163][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.247][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.330][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.413][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.496][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.579][v][ffmpeg] stream level seek from 6506842 to 6457690
+[  68.579][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.664][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.746][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.830][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.913][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.996][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.080][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.163][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.247][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.330][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.414][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.497][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.579][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.663][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.746][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.829][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.913][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.996][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.079][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.163][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.247][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.329][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.414][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.497][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.579][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.664][v][ffmpeg] stream level seek from 6852035 to 6802883
+[  70.664][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.747][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.829][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.913][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.996][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.079][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.163][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.247][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.330][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.413][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.496][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.579][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.663][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.746][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.829][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+ovedReason 以确定相应的措施。 (0x887a0005)
+[  48.265][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.348][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.432][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.515][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.598][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.682][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.765][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.848][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  48.932][v][ffmpeg] stream level seek from 3352118 to 3176561
+[  48.932][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.016][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.099][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.181][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.266][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.348][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.431][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.515][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.598][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.681][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.765][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.848][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  49.932][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.016][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.098][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.182][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.266][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.349][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.431][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.516][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.599][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.682][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.765][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.849][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  50.932][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.016][v][ffmpeg] stream level seek from 3704249 to 3516797
+[  51.016][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.099][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.181][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.265][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.349][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.431][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.516][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.599][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.681][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.765][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.848][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  51.931][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.015][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.098][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.181][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.265][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.348][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.431][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.516][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.599][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.682][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.765][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.848][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  52.932][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.016][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.098][v][ffmpeg] stream level seek from 4057625 to 3861026
+[  53.098][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.181][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.265][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.348][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.431][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.515][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.598][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.681][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.765][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.848][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  53.932][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.015][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.098][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.182][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.265][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.348][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.432][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.515][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.598][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.681][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.765][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.848][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.931][v][ffmpeg] stream level seek from 4386442 to 4208611
+[  54.931][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.015][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.098][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.182][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.265][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.348][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.432][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.515][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.599][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.681][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.766][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.848][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.932][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.015][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.098][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.181][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.265][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.349][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.432][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.515][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.598][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.681][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.766][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.848][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.931][v][ffmpeg] stream level seek from 4733379 to 4557470
+[  56.931][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.015][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.098][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.181][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.265][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.348][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.432][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.515][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.599][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.682][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.765][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.848][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.931][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.015][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.098][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.182][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.265][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.348][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.432][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.516][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.599][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.682][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.765][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.848][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.931][v][ffmpeg] stream level seek from 5088078 to 4905928
+[  58.931][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.016][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.099][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.181][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.265][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.348][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.431][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.516][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.598][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.682][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.766][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.848][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.932][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.015][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.098][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.182][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.265][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.349][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.432][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.515][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.598][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.681][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.766][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.849][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.932][v][ffmpeg] stream level seek from 5430696 to 5246858
+[  60.932][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.016][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.098][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.182][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.265][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.348][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.432][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.516][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.598][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.682][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.765][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.848][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.932][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.016][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.099][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.181][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.265][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.349][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.432][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.516][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.599][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.681][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.766][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.848][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.931][v][ffmpeg] stream level seek from 5772274 to 5589186
+[  62.932][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.015][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.098][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.182][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.266][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.348][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.431][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.516][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.598][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.681][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.765][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.848][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.932][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.015][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.098][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.181][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.265][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.349][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.431][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.515][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.599][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.681][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.766][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.850][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.937][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.016][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.017][v][ffmpeg] stream level seek from 6131474 to 5941485
+[  65.099][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.181][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.265][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.348][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.432][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.517][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.599][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.681][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.765][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.849][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.931][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.015][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.099][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.181][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.266][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.348][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.432][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.515][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.598][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.682][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.765][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.849][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.932][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.015][v][ffmpeg] stream level seek from 6475341 to 6285912
+[  67.016][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.098][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.181][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.265][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.349][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.432][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.515][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.598][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.682][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.766][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.848][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.932][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.016][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.099][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.181][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.265][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.349][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.431][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.516][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.598][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.681][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.766][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.849][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.932][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.015][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.098][v][ffmpeg] stream level seek from 6822360 to 6630659
+[  69.098][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.181][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.266][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.348][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.431][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.515][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.598][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.682][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.765][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.848][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.932][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.016][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.098][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.181][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.265][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.348][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.432][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.515][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.599][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.681][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.765][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.848][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.932][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.015][v][ffmpeg] stream level seek from 7172947 to 6979224
+[  71.015][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.098][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.182][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.266][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.349][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.431][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.516][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.598][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.682][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.766][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.848][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+65][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.449][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.532][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.580][d][ffmpeg] tcp: Starting connection attempt to 192.168.1.6 port 8080
+[  54.592][d][ffmpeg] tcp: Successfully connected to 192.168.1.6 port 8080
+[  54.615][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.699][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.782][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.865][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  54.931][d][ffmpeg] tcp: Starting connection attempt to 192.168.1.6 port 8080
+[  54.943][d][ffmpeg] tcp: Successfully connected to 192.168.1.6 port 8080
+[  54.949][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.032][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.116][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.199][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.282][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.365][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.449][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.532][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.616][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.699][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.782][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.865][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  55.950][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.032][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.115][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.199][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.283][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.366][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.450][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.533][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.580][d][ffmpeg] tcp: Starting connection attempt to 192.168.1.6 port 8080
+[  56.594][d][ffmpeg] tcp: Successfully connected to 192.168.1.6 port 8080
+[  56.615][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.699][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.782][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.866][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  56.931][d][ffmpeg] tcp: Starting connection attempt to 192.168.1.6 port 8080
+[  56.945][d][ffmpeg] tcp: Successfully connected to 192.168.1.6 port 8080
+[  56.949][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.032][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.115][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.200][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.283][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.365][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.449][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.533][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.615][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.699][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.782][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.865][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  57.949][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.032][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.115][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.199][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.282][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.366][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.450][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.533][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.579][d][ffmpeg] tcp: Starting connection attempt to 192.168.1.6 port 8080
+[  58.580][d][ffmpeg] tcp: Successfully connected to 192.168.1.6 port 8080
+[  58.616][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.699][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.782][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.866][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  58.931][d][ffmpeg] tcp: Starting connection attempt to 192.168.1.6 port 8080
+[  58.942][d][ffmpeg] tcp: Successfully connected to 192.168.1.6 port 8080
+[  58.950][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.032][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.116][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.200][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.283][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.365][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.449][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.533][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.616][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.700][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.783][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.865][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  59.950][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.032][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.115][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.200][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.282][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.366][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.449][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.532][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.579][d][ffmpeg] tcp: Starting connection attempt to 192.168.1.6 port 8080
+[  60.590][d][ffmpeg] tcp: Successfully connected to 192.168.1.6 port 8080
+[  60.615][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.700][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.782][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.865][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  60.932][d][ffmpeg] tcp: Starting connection attempt to 192.168.1.6 port 8080
+[  60.943][d][ffmpeg] tcp: Successfully connected to 192.168.1.6 port 8080
+[  60.949][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.032][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.116][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.199][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.282][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.365][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.449][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.532][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.615][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.699][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.783][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.865][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  61.949][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.032][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.115][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.200][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.282][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.365][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.449][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.532][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.616][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.663][d][ffmpeg] tcp: Starting connection attempt to 192.168.1.6 port 8080
+[  62.675][d][ffmpeg] tcp: Successfully connected to 192.168.1.6 port 8080
+[  62.699][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.782][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.866][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  62.932][d][ffmpeg] tcp: Starting connection attempt to 192.168.1.6 port 8080
+[  62.945][d][ffmpeg] tcp: Successfully connected to 192.168.1.6 port 8080
+[  62.949][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.032][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.115][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.199][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.282][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.365][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.449][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.533][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.616][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.699][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.782][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.865][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  63.950][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.032][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.115][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.199][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.282][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.366][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.449][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.532][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.615][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.699][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.747][d][ffmpeg] tcp: Starting connection attempt to 192.168.1.6 port 8080
+[  64.760][d][ffmpeg] tcp: Successfully connected to 192.168.1.6 port 8080
+[  64.783][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.869][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  64.952][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.018][d][ffmpeg] tcp: Starting connection attempt to 192.168.1.6 port 8080
+[  65.021][d][ffmpeg] tcp: Successfully connected to 192.168.1.6 port 8080
+[  65.038][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.116][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.199][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.283][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.366][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.450][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.533][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.615][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.699][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.783][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.865][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  65.950][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.032][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.116][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.200][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.282][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.365][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.449][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.532][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.615][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.699][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.747][d][ffmpeg] tcp: Starting connection attempt to 192.168.1.6 port 8080
+[  66.761][d][ffmpeg] tcp: Successfully connected to 192.168.1.6 port 8080
+[  66.782][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.865][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  66.949][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.016][d][ffmpeg] tcp: Starting connection attempt to 192.168.1.6 port 8080
+[  67.017][d][ffmpeg] tcp: Successfully connected to 192.168.1.6 port 8080
+[  67.033][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.116][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.200][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.283][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.366][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.449][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.532][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.615][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.699][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.783][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.866][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  67.949][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.032][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.116][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.199][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.282][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.366][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.449][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.532][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.579][d][ffmpeg] tcp: Starting connection attempt to 192.168.1.6 port 8080
+[  68.590][d][ffmpeg] tcp: Successfully connected to 192.168.1.6 port 8080
+[  68.615][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.699][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.783][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.866][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  68.950][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.032][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.098][d][ffmpeg] tcp: Starting connection attempt to 192.168.1.6 port 8080
+[  69.109][d][ffmpeg] tcp: Successfully connected to 192.168.1.6 port 8080
+[  69.115][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.199][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.282][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.365][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.449][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.533][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.615][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.700][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.782][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.865][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  69.949][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.032][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.115][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.199][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.282][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.366][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.449][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.532][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.616][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.664][d][ffmpeg] tcp: Starting connection attempt to 192.168.1.6 port 8080
+[  70.665][d][ffmpeg] tcp: Successfully connected to 192.168.1.6 port 8080
+[  70.699][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.782][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.866][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  70.949][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.016][d][ffmpeg] tcp: Starting connection attempt to 192.168.1.6 port 8080
+[  71.017][d][ffmpeg] tcp: Successfully connected to 192.168.1.6 port 8080
+[  71.032][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.115][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.199][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.282][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.365][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.449][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.532][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.615][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.700][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.783][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
+[  71.865][e][vo/gpu/d3d11] Failed to create vertex buffer: GPU 设备实例已经暂停。使用 GetDeviceRemovedReason 以确定相应的措施。 (0x887a0005)
