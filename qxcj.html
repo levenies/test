@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>给老婆七夕礼物</title>
+  <style>
+			td{
+				height: 200px;
+				width: 200px;
+			}
+</style>
+
+ </head>
+ <body>
+ <font size="20">给老婆七夕礼物</font>
+  <table border="1px">
+	</table>
+ </body>
+ <script>
+
+ 			var items = ["LV包","古驰包包","华为P40","万元红包","谢谢参与","口红十只","全部都送","寇驰包","迪奥包"];
+			var table = document.getElementsByTagName("table")[0];
+			var tdArr = [];
+			for(var i = 0;i<3;i++)
+			{
+				var tr = document.createElement("tr");
+				for(var j = 0;j<3;j++)
+				{
+					var td = document.createElement("td");
+					tr.appendChild(td);
+					if(i==1 && j==1){
+						td.setAttribute("id","begin");
+						td.innerHTML = "<font size='18'>点击开始</font>";
+					}
+					else{
+						td.setAttribute("class","chose");
+						tdArr.push(td);
+					}
+				}
+				table.appendChild(tr);
+			}
+			for(var i = 0;i<tdArr.length;i++)
+			{
+				tdArr[i].innerHTML = "<font size='20'>" + items[i] +  "</font>";
+			}
+
+			var isStart = false;
+			var begin = document.getElementById("begin");
+			var num = 0;
+			var time;
+			var arr = [0,1,2,4,7,6,5,3];
+	
+			var lastTd = null;
+			begin.onclick = function(){
+				if(isStart==true)
+				{
+					return;
+				}
+				isStart = true;
+				time = setInterval(function(){
+						if(num>=tdArr.length)
+						{						
+							num=0;
+							tdArr[tdArr.length-1].style.backgroundColor="white";
+						}
+						var idx = arr[num];
+						if(lastTd!=null)
+						{
+							lastTd.style.backgroundColor = "white";
+						}						
+						tdArr[idx].style.backgroundColor = "red";
+						lastTd = tdArr[idx]
+						num++;
+					},100)
+				var ran = Math.random()*5000+3000;
+				setTimeout(function(){					
+					clearInterval(time);
+					isStart = false;
+				},ran)
+			}
+			
+		</script>
+</html>
